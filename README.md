@@ -3,7 +3,7 @@ Project based on the DOHMH sanitary inspections. Statistics, visualisation and a
 
 DATA PRESENTATION
 
-- Data pulled from :  https://data.cityofnewyork.us DOHMH SANITARY INSPECTIONS
+- Data pulled from DOHMH SANITARY INSPECTIONS : https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
 - 380,000 RECORDS IN 120,000 INSPECTIONS ON 25,000 RESTAURANTS
 
 
